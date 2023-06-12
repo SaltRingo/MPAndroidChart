@@ -29,6 +29,9 @@ import java.util.ArrayList;
 
 public class AnotherBarActivity extends DemoBase implements OnSeekBarChangeListener {
 
+    //このコメントを追加した.どのようなプログラムか把握できずいじることができなかった.
+    //コメントを追加した.機能を把握できずいじれなかった
+
     private BarChart chart;
     private SeekBar seekBarX, seekBarY;
     private TextView tvX, tvY;
